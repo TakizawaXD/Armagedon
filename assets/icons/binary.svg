@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="#00e0c3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Binario / RE">
+  <rect x="18" y="18" width="28" height="28" rx="3"/>
+  <path d="M26 10v8M38 10v8M26 46v8M38 46v8M10 26h8M10 38h8M46 26h8M46 38h8"/>
+  <path d="M28 28v8M34 28h3v8h-3" />
+</svg>

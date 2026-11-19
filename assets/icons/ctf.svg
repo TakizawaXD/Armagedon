@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="#00e0c3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="CTF">
+  <path d="M16 54V10"/>
+  <path d="M16 12h30l-6 9 6 9H16" fill="#00e0c3" fill-opacity="0.12"/>
+  <circle cx="16" cy="54" r="3" fill="#00e0c3"/>
+</svg>
